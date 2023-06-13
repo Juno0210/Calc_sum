@@ -1,0 +1,11 @@
+D:\Work\C#\CalcSum\CalcSum\bin\Debug\CalcSum.exe.config
+D:\Work\C#\CalcSum\CalcSum\bin\Debug\CalcSum.exe
+D:\Work\C#\CalcSum\CalcSum\bin\Debug\CalcSum.pdb
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.csproj.SuggestedBindingRedirects.cache
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.Form1.resources
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.Properties.Resources.resources
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.csproj.GenerateResource.cache
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.csproj.CoreCompileInputs.cache
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.exe
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.pdb
+D:\Work\C#\CalcSum\CalcSum\obj\Debug\CalcSum.csproj.AssemblyReference.cache
